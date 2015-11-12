@@ -1,6 +1,6 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
   <TemplateData>
-    <Name>Wally Shirey</Name>
+    <Name>MicroserviceProject</Name>
     <Description>C# console application using TopShelf and Serilog</Description>
     <DefaultName>MicroserviceProject</DefaultName>
     <ProjectType>CSharp</ProjectType>
